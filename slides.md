@@ -21,150 +21,57 @@ maaliskuun 27. 2014 </br>
 
 
 <!-- ---| notes begin |--------------------------------
+Few words about the authors and the beauty of Torino and the smooth arrangements of the conference
 
-
+cd ~/workspace/..
+lftp -u np16003 -e "put slidefilename.html;quit" ftp://np16003@www.muuankarski.org/domains/markuskainu.fi/public_html/material/presentation
 ---------| notes end |-----------------------------  --> 
 
-
-Avoin data
+Sisältö
 ========================================================
 
-1. Avoin hallinnollinen data
--------------------------------
-
-- julkista tietoa
-- koneluettavassa muodossa
-- maksutonta
-- avoimesti lisensoitua
-
-2. Avoin tutkimusdata
--------------------------------
-
-- ??
+1. Avoin data
+2. Avoin data Venäjällä
+    - politiikka
+    - toimijat
+    - aloitteet
+3. Omat sovellukset venäläisestä datasta
+4. Suunnitelmia
 
 
-=======================================================
+
+========================================================
 type: subsection
 
-# Avoin data Venäjällä
-
-
-Tilanne Venäjällä
-========================================================
-
->I know that in the eyes of many people in Europe, Russia may look like a closed censorship and far from opening up to its own residents. However, strange as it may seem, this is not always the case.
-
->Beginning in 2012, in Russia, a council on public data under the Government commision on openness. Published public data and is actively working on opening more and more information.
-
-[Ivan Begtin 9/2013, Russian open data - Current state of mind](http://www.epsiplatform.eu/content/russian-open-data-current-state-mind-0)
-
-
-http://data.gov.ru/
-================================================
-
-[data.gov.ru/](http://data.gov.ru/) 
-
-<iframe src="http://data.gov.ru/" height=500px width=1000px></iframe>
-
-- avattu 26.3.2014 (eilen)
-- kommentoitavissa huhtikuun loppuun asti
-
-Open Data Index
+# 1. Avoin data
+ 
+otsikko
 ========================================================
 
 
-<iframe src="https://index.okfn.org/country/overview/Finland/" height=250px width=1000px></iframe>
 
-- [Suomi](https://index.okfn.org/country/overview/Finland/)
-- [Venäjä](https://index.okfn.org/country/overview/Russian%20Federation/)
-
-<iframe src="https://index.okfn.org/country/overview/Russian%20Federation/" height=250px width=1000px></iframe>
-
-
-Paikallisia/alueellisia projekteja
-=========================================================
-
-- [Moskova](http://data.mos.ru/)
-- [Ulyanovskin alue](http://data.ulgov.ru/)
-- [Tula](http://opendata71.ru/)
-- [Krasnodar](http://krd.ru/opendata/)
-- [Perm](http://opendata.perm.ru/)
-
-
-HSE Moskovan tutkimus
 ========================================================
-
-> The Higher School of Economics at the National Research University, Moscow, and “Information Culture” have published an analysis of the results the open data initiative in the Russian Federation in 2013. 
-
-  * [The full report (in Russian)](http://goo.gl/AlmxEo)
-  * [The full report (in English)](http://opengovdata.ru/wp-content/uploads/2013/10/Open-Data-Report_Russia-2013.pdf)
-
-
-=======================================================
-
-1. Despite the fact that all actions to implement open data in the Russian Federation are in accordance with the road map, federal authorities have not yet started work on it.
-2. The key indicators on the roadmap have been achieved. However none of the really popular data sets have been published. This hinders the emergence of new applications
-3. There has been a tendency to split a single thematic dataset into small tables; this increases the number of datasets published. For instance of the 102 datasets 94 from the Russian Federal Statistics Agency ROSSTAT appear to be extracts from one underlying database with different filters. Evaluation of progress should be more based on the value and relevance of the datasets
-4. The publication of data has kept quite closely to the methodology set by the Ministry of Economics (overall an adherence of 75% to all the data publication requirements across all federal executive bodies). However
-there are regular sources of error: 
-    - Data published but not available for *download* (in 9 Federal bodies more than 50% of datasets cannot be downloaded
-    - Only 23% of federal bodies have placed a feedback section in their open data site
-
-=======================================================
-
-5. Regions and municipalities are actively involved in the work on open data, but at this level of error is greater. This is due to a lack of explanation of open data. The most common mistake is a misunderstanding of the term open data: OLAP based analyses and draft laws are being published instead of machine-readable data.
-6. Since the Presidents decree on Open Data in July 2012 there have been no less than 24 other decrees containing provisions on public access to information but these did not contain any indication of the need for access to the information in the form of open data.
-7. Russian federal open data portal is under heavy discussion right now. First document with portal specification and requirement was criticised by experts due lack of focus on 5-stars data and many other topics.
-
-=======================================================
 type: subsection
 
-# Keskeisiä toimijoita
+# 2. Avoin data Venäjällä
 
-
-Ivan Begtin
+otsikko
 ========================================================
 
-[website](http://ivan.begtin.name/) - [twitter](https://twitter.com/ibegtin) - [github](https://github.com/ivbeg)
 
-- [NGO “INFOCULTURE”](http://www.infoculture.ru/) - *a not-for-profit organization with the interest in establishing and promoting Open Government and Open Data concept*
-    - [Apps4Russia](http://www.apps4russia.ru/)
-- [opengovdata.ru/](http://opengovdata.ru/) - *Russian open government data catalog*
-- [Open Police](http://www.openpolice.ru/) - *Project dedicated to police reform and police open data especially crime statistics*
-- [Goslyudi](http://www.goslyudi.ru/) - *catalog and aggregator of blogs of russian MPs and officials*
-- [Govweb](http://www.govweb.ru/) - *Online database of all russian government websites, including ratings of quality and transparency and other technological and public interests lists*
-- [Oficialno](http://federal.polit.ru) - *aggregates ALL russian official news that coming from government websites*
-- [Rosspending](http://www.rosspending.ru) - *Russian government contracts monitoring project* - created for think tank [Insitute of Contemporary Development](http://www.insor-russia.ru/en/)
+========================================================
+type: subsection
 
-Muita toimijoita
-=======================================================
+# 3. Omat sovellukset venäläisestä datasta
 
-Vitaly Vlasov
--------------------------------------
-
-- [SlideShare](http://www.slideshare.net/inxaoc)
-- [twitter](https://twitter.com/inxaoc)
-
-Irina Radchenko
-------------------------------------
-
-- [about.me](http://about.me/irina.radchenko#sthash.SFXn28vh.dpuf)
-- [slideshare](http://www.slideshare.net/iradche/okfn-32445623)
-
-Open Knowledge Foundation Russia
------------------------------------
-
-- [ru.okfn.org](http://ru.okfn.org) - *ei toimi!*
-- [perustettu joulukuussa 2013](http://ru.okfn.org/2014/03/19/open-knowledge-foundation/)
-- [fb](https://www.facebook.com/okfnru)
-- [twitter](https://twitter.com/okfnru)
-
-
-Omat projektit avoimen dataan liittyen
+otsikko
 ========================================================
 
-- [rustfare-package for R](http://markuskainu.fi/rustfare/) - *toolbox for R language for open welfare data from Russian Federation*
-    - [visualisointihärveli](http://glimmer.rstudio.com/muuankarski/rus_region_fi/)
-- [rOpenGov](http://ropengov.github.io/)
-- [Avoimen tieteen työryhmä - OKFFI](http://fi.okfn.org/wg/openscience/)
+========================================================
+type: subsection
 
+# 4. Suunnitelmia
+
+
+otsikko
+========================================================
