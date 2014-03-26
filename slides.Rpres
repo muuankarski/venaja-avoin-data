@@ -59,6 +59,15 @@ Tilanne Venäjällä
 [Ivan Begtin 9/2013, Russian open data - Current state of mind](http://www.epsiplatform.eu/content/russian-open-data-current-state-mind-0)
 
 
+http://data.gov.ru/
+================================================
+
+[data.gov.ru/](http://data.gov.ru/) 
+
+<iframe src="http://data.gov.ru/" height=500px width=1000px></iframe>
+
+- avattu 26.3.2014 (eilen)
+- kommentoitavissa huhtikuun loppuun asti
 
 Open Data Index
 ========================================================
@@ -70,6 +79,17 @@ Open Data Index
 - [Venäjä](https://index.okfn.org/country/overview/Russian%20Federation/)
 
 <iframe src="https://index.okfn.org/country/overview/Russian%20Federation/" height=250px width=1000px></iframe>
+
+
+Paikallisia/alueellisia projekteja
+=========================================================
+
+- [Moskova](http://data.mos.ru/)
+- [Ulyanovskin alue](http://data.ulgov.ru/)
+- [Tula](http://opendata71.ru/)
+- [Krasnodar](http://krd.ru/opendata/)
+- [Perm](http://opendata.perm.ru/)
+
 
 HSE Moskovan tutkimus
 ========================================================
