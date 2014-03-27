@@ -40,7 +40,8 @@ Avoin data
 2. Avoin tutkimusdata
 -------------------------------
 
-- ??
+- itse kerättyjen datojen jakaminen
+- toisten kerääminen datojen hyödyntäminen    - 
 
 
 =======================================================
