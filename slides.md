@@ -12,12 +12,13 @@ maaliskuun 27. 2014 </br>
 [Aleksanteri-instituutti, Helsingin yliopisto](http://helsinki.fi/aleksanteri) </br>
 [Sosiaalitieteden laitos, Turun yliopisto](https://www.utu.fi/fi/yksikot/soc/yksikot/sosiaalitieteet/Sivut/home.aspx) </br>
 
+<!--
 <div class="github-fork-ribbon-wrapper right">
 <div class="github-fork-ribbon">
 <a href="https://github.com/muuankarski/" style="color:white;">Fork me on GitHub</a>
 </div>
 </div>
-
+-->
 
 
 <!-- ---| notes begin |--------------------------------
