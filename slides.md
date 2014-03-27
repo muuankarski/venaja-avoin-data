@@ -1,4 +1,4 @@
-Avoin data ja Venäjä
+Avoin data Venäjällä
 ==============
 css: slides.css
 transition: fade

@@ -1,4 +1,4 @@
-Avoin data ja Venäjä
+Avoin data Venäjällä
 ========================================================
 
 <!--
@@ -20,33 +20,12 @@ Diojen sisältö
 =============================
 
 
-Avoin data ja Venäjä
-==============
-css: slides.css
-transition: fade
-transition-speed: fast
-<!-- *alaotsikko* -->
+"tulokulma"
+========================================================
 
-maaliskuun 27. 2014 </br>
-
-<a href="http://markuskainu.fi">Markus Kainu</a></br>
-*tohtorikoulutettava* </br>
-[Aleksanteri-instituutti, Helsingin yliopisto](http://helsinki.fi/aleksanteri) </br>
-[Sosiaalitieteden laitos, Turun yliopisto](https://www.utu.fi/fi/yksikot/soc/yksikot/sosiaalitieteet/Sivut/home.aspx) </br>
-
-<div class="github-fork-ribbon-wrapper right">
-<div class="github-fork-ribbon">
-<a href="https://github.com/muuankarski/" style="color:white;">Fork me on GitHub</a>
-</div>
-</div>
-
-
-
-<!-- ---| notes begin |--------------------------------
-
-
----------| notes end |-----------------------------  --> 
-
+1. avoimen hallinnollisen datan & tutkimusdatan hyödyntäminen
+2. algoritmien kehittäminen venäläisen datan saatavuuden parantamiseksi (R-kieli)
+3. avoimen tieteen (julkaisut, data, menetelmät) edistäminen (open knowledge foundation - Open Science)
 
 Avoin data
 ========================================================
@@ -62,7 +41,8 @@ Avoin data
 2. Avoin tutkimusdata
 -------------------------------
 
-- ??
+- itse kerättyjen datojen jakaminen
+- toisten kerääminen datojen hyödyntäminen    - 
 
 
 =======================================================
