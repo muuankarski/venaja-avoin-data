@@ -25,6 +25,12 @@ maaliskuun 27. 2014 </br>
 
 ---------| notes end |-----------------------------  --> 
 
+"tulokulma"
+========================================================
+
+1. avoimen hallinnollisen datan & tutkimusdatan hyödyntäminen
+2. algoritmien kehittäminen venäläisen datan saatavuuden parantamiseksi (R-kieli)
+3. avoimen tieteen (julkaisut, data, menetelmät) edistäminen (open knowledge foundation - Open Science)
 
 Avoin data
 ========================================================
