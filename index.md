@@ -6,18 +6,13 @@ pandoc -s -S -H rmarkdown.css index.md -o index.html
 cp index.md README.md
 -->
 
-Diat löytyvät tästä: [slides.html](slides.html)
+**Diat löytyvät tästä: [slides.html](slides.html)**
 
-
-------
-
-------
+**Diojen sisältö liitettynä alla:**
 
 ------
 
-
-Diojen sisältö
-=============================
+------
 
 
 "tulokulma"
